@@ -4,9 +4,6 @@ Delphi has several variables, symbols and other means where it stores its own ve
 
 If you have corrections, additional information or updates, then feel free to post pull-requests or become a contributor.
 
-As base I used the information provided in Embarcadero's DocWiki:
-http://docwiki.embarcadero.com/RADStudio/en/Compiler_Versions
-
 | Product                                      | Conditional VER  | Product Version | Package Version | CompilerVersion | Project Version | HKCU/HKLM Registry Path |
 | :------------------------------------------- | :--------------: | :-------------: | :-------------: | :-------------: | :-------------: | :--------------------------------------------- |
 | Delphi 10.4 Sydney / C++Builder 10.4 Sydney  |      VER340      |       27        |       270       |      34.0       |  19.0           |  |
@@ -73,12 +70,7 @@ if CompilerVersion = 34.0 then
 
 ### Credits
 
-https://delphi.fandom.com/wiki/CompilerVersion_Constant
-
-https://gist.github.com/jpluimers/b8c6b3bf29dbbf98a801f01beb8284a5
-
-https://gist.github.com/menjaraz/f8b79e3329fed0da1b0d6bcaa54866d7
-
-
-
-
+- http://docwiki.embarcadero.com/RADStudio/en/Compiler_Versions
+- https://delphi.fandom.com/wiki/CompilerVersion_Constant
+- https://gist.github.com/jpluimers/b8c6b3bf29dbbf98a801f01beb8284a5
+- https://gist.github.com/menjaraz/f8b79e3329fed0da1b0d6bcaa54866d7
