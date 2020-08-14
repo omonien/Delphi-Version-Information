@@ -2,7 +2,7 @@
 
 Delphi has several variables, symbols and other means where it stores its own version information. Here is a reference, trying to provide as much information as possible. 
 
-If you have corrections, additional information or updates, then feel free to post pull-requests.
+If you have corrections, additional information or updates, then feel free to post pull-requests or become a contributor.
 
 As base I used the information provided in Embarcadero's DocWiki:
 http://docwiki.embarcadero.com/RADStudio/en/Compiler_Versions
