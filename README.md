@@ -1,11 +1,8 @@
 # Delphi-Version-Information
 
-Delphi has several variables, symbols and other means where it stores its own version information. Here is a reference, trying to display as much information as possible. 
+Delphi has several variables, symbols and other means where it stores its own version information. Here is a reference, trying to provide as much information as possible. 
 
-If you have corrections, additional information or updates, then feel free to post pull-requests.
-
-As base I used the information provided in Embarcadero's DocWiki:
-http://docwiki.embarcadero.com/RADStudio/en/Compiler_Versions
+If you have corrections, additional information or updates, then feel free to post pull-requests or become a contributor.
 
 | Product                                      | Conditional VER  | Product Version | Package Version | CompilerVersion | Project Version | HKCU/HKLM Registry Path |
 | :------------------------------------------- | :--------------: | :-------------: | :-------------: | :-------------: | :-------------: | :--------------------------------------------- |
@@ -73,12 +70,7 @@ if CompilerVersion = 34.0 then
 
 ### Credits
 
-https://delphi.fandom.com/wiki/CompilerVersion_Constant
-
-https://gist.github.com/jpluimers/b8c6b3bf29dbbf98a801f01beb8284a5
-
-https://gist.github.com/menjaraz/f8b79e3329fed0da1b0d6bcaa54866d7
-
-
-
-
+- http://docwiki.embarcadero.com/RADStudio/en/Compiler_Versions
+- https://delphi.fandom.com/wiki/CompilerVersion_Constant
+- https://gist.github.com/jpluimers/b8c6b3bf29dbbf98a801f01beb8284a5
+- https://gist.github.com/menjaraz/f8b79e3329fed0da1b0d6bcaa54866d7
