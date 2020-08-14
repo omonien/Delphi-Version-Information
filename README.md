@@ -9,9 +9,9 @@ http://docwiki.embarcadero.com/RADStudio/en/Compiler_Versions
 
 | Product                                      | Conditional VER  | Product Version | Package Version | CompilerVersion | Project Version | HKCU/HKLM Registry Path |
 | :------------------------------------------- | :--------------: | :-------------: | :-------------: | :-------------: | :-------------: | :--------------------------------------------- |
-| Delphi 10.4 Sydney / C++Builder 10.4 Sydney  |      VER340      |       27        |       270       |      34.0       |  19.0           |  |
-| Delphi 10.3 Rio / C++Builder 10.3 Rio        |      VER330      |       26        |       260       |      33.0       |  18.8           |  |
-| Delphi 10.2 Tokyo / C++Builder 10.2 Tokyo    |      VER320      |       25        |       250       |      32.0       |  18.4           |  |
+| Delphi 10.4 Sydney / C++Builder 10.4 Sydney  |      VER340      |       27        |       270       |      34.0       |  19.0           | \Software\Embarcadero\BDS\21.0 |
+| Delphi 10.3 Rio / C++Builder 10.3 Rio        |      VER330      |       26        |       260       |      33.0       |  18.8           | \Software\Embarcadero\BDS\20.0 |
+| Delphi 10.2 Tokyo / C++Builder 10.2 Tokyo    |      VER320      |       25        |       250       |      32.0       |  18.4           | \Software\Embarcadero\BDS\19.0 |
 | Delphi 10.1 Berlin / C++Builder 10.1 Berlin  |      VER310      |       24        |       240       |      31.0       | 18.1 | \Software\Embarcadero\BDS\18.0 |
 | Delphi 10 Seattle / C++Builder 10 Seattle    |      VER300      |       23        |       230       |      30.0       | 18.0 | \Software\Embarcadero\BDS\17.0 |
 | Delphi XE8 / C++Builder XE8 / Appmethod 1.16 |      VER290      |       22        |       220       |      29.0       | 17.0;17.1;17.2 | \Software\Embarcadero\BDS\16.0 |
