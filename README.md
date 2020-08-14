@@ -4,6 +4,9 @@ Delphi has several variables, symbols and other means where it stores its own ve
 
 If you have corrections, additional information or updates, then feel free to post pull-requests or become a contributor.
 
+Also have a look at this repo, which has additional information about release dates, patch versions and more:
+https://github.com/ideasawakened/DelphiKB/wiki/Delphi-Master-Release-List
+
 | Product                                      | Conditional VER  | Product Version | Package Version | CompilerVersion | Project Version | HKCU/HKLM Registry Path |
 | :------------------------------------------- | :--------------: | :-------------: | :-------------: | :-------------: | :-------------: | :--------------------------------------------- |
 | Delphi 10.4 Sydney / C++Builder 10.4 Sydney  |      VER340      |       27        |       270       |      34.0       |  19.0           | \Software\Embarcadero\BDS\21.0 |
