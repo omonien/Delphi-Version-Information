@@ -32,7 +32,7 @@ https://github.com/ideasawakened/DelphiKB/wiki/Delphi-Master-Release-List
 | Delphi 2005                                  |      VER170      |        9        |               |       90        |      17.0       |       | \Software\Borland\BDS\3.0 |
 | Delphi 8 for .Net                            |      VER160      |        8        |               |       80        |      16.0       | 80 | \Software\Borland\BDS\2.0 |
 | Borland C# Builder 1 | C# |  |  |  | C# |  | \Software\Borland\BDS\1.0 |
-| Delphi 7 (and 7.1)                           |      VER150      |        7        |               |       70        |      15.0       |      |  |
+| Delphi 7 (and 7.1)                           |      VER150      |        7        |  v7.0 build 8.1 |       70        |      15.0       |      | \SOFTWARE\Borland\Delphi\7.0 |
 | Delphi 6 / C++Builder 6                      |      VER140      |        6        |               |       60        |      14.0       |      |  |
 | Delphi 5 / C++Builder 5                      |      VER130      |        5        |               |       NA        |       NA        |      |  |
 | C++Builder 4                                 |      VER125      |        4        |               |       NA        |       NA        |      |  |
