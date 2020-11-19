@@ -23,7 +23,7 @@ https://github.com/ideasawakened/DelphiKB/wiki/Delphi-Master-Release-List
 | Delphi XE4 / C++Builder XE4                  |      VER250      |       18        |              |       180       |      25.0       |  14.6  | \Software\Embarcadero\BDS\11.0 |
 | Delphi XE3 / C++Builder XE3                  |      VER240      |       17        |              |       170       |      24.0       |  14.3;14.4  | \Software\Embarcadero\BDS\10.0 |
 | Delphi XE2 / C++Builder XE2                  |      VER230      |       16        |              |       160       |      23.0       |  13.4  | \Software\Embarcadero\BDS\9.0 |
-| Delphi XE / C++Builder XE                    |      VER220      |       15        |              |       150       |      22.0       |  12.2;12.3  | \Software\Embarcadero\BDS\8.0 |
+| Delphi XE / C++Builder XE                    |      VER220      |       15        | 15.0.3953.35171 |       150       |      22.0       |  12.2;12.3  | \Software\Embarcadero\BDS\8.0 |
 | Delphi 2010 / C++Builder 2010                |      VER210      |       14        |              |       140       |      21.0       |  12.0  | \Software\CodeGear\BDS\7.0 |
 | Delphi 2009 / C++Builder 2009                |      VER200      |       12        |              |       120       |      20.0       |  11.1;12.0  | \Software\CodeGear\BDS\6.0 |
 | Delphi 2007 for .Net                         |      VER190      |       11        |              |       110       |      19.0       |      |  |
