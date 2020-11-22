@@ -33,12 +33,12 @@ https://github.com/ideasawakened/DelphiKB/wiki/Delphi-Master-Release-List
 | Delphi 8 for .Net                            |      VER160      |        8        |               |       80        |      16.0       | 80 | \Software\Borland\BDS\2.0 |
 | Borland C# Builder 1 | C# |  |  |  | C# |  | \Software\Borland\BDS\1.0 |
 | Delphi 7 (and 7.1)                           |      VER150      |        7        |  v7.0 build 8.1 |       70        |      15.0       |      | \SOFTWARE\Borland\Delphi\7.0 |
-| Delphi 6 / C++Builder 6                      |      VER140      |        6        |               |       60        |      14.0       |      |  |
-| Delphi 5 / C++Builder 5                      |      VER130      |        5        |               |       NA        |       NA        |      |  |
+| Delphi 6 / C++Builder 6                      |      VER140      |        6        |  6.0.6.163  |       60        |      14.0       |      |  |
+| Delphi 5 / C++Builder 5                      |      VER130      |        5        |  5.0.5.62  |       NA        |       NA        |      | \Software\Borland\Delphi\5.0 |
 | C++Builder 4                                 |      VER125      |        4        |               |       NA        |       NA        |      |  |
-| Delphi 4                                     |      VER120      |        4        |               |       NA        |       NA        |      |  |
+| Delphi 4                                     |      VER120      |        4        |  4.0.5.37  |       NA        |       NA        |      | \Software\Borland\Delphi\4.0 |
 | C++Builder 3                                 |      VER110      |        3        |               |       NA        |       NA        |      |  |
-| Delphi 3                                     |      VER100      |        3        |               |       NA        |       NA        |      |  |
+| Delphi 3                                     |      VER100      |        3        |  3.0.5.53  |       NA        |       NA        |      |  |
 | C++Builder 1                                 |      VER93       |       NA        |               |       NA        |       NA        |      |  |
 | Delphi 2                                     |      VER90       |        2        |               |       NA        |       NA        |      |  |
 | Delphi 1                                     |      VER80       |        1        |               |       NA        |       NA        |      |  |
