@@ -9,6 +9,7 @@ https://github.com/ideasawakened/DelphiKB/wiki/Delphi-Master-Release-List
 
 | Product                                      | Conditional VER  | Product Version | Build No. | Package Version | CompilerVersion | Project Version | HKCU/HKLM Registry Path |
 | :------------------------------------------- | :--------------: | :-------------: | :-------------: | :-------------: | :-------------: | :--------------------------------------------- | :--------------------------------------------: |
+| Delphi 10.4.2 Sydney / C++Builder 10.4.2 Sydney | VER340 | 27 | 27.0.40680.4203 | 270 | 34.0 | 19.2 | \Software\Embarcadero\BDS\21.0 |
 | Delphi 10.4.1 Sydney / C++Builder 10.4.1 Sydney | VER340 | 27 | 27.0.38860.1461 | 270 | 34.0 | 19.1 | \Software\Embarcadero\BDS\21.0 |
 | Delphi 10.4 Sydney / C++Builder 10.4 Sydney  |      VER340      |       27        |              |       270       |      34.0       |  19.0           | \Software\Embarcadero\BDS\21.0 |
 | Delphi 10.3 Rio / C++Builder 10.3 Rio        |      VER330      |       26        | 26.0.36039.7899 |       260       |      33.0       |  18.8           | \Software\Embarcadero\BDS\20.0 |
@@ -78,5 +79,3 @@ if CompilerVersion = 34.0 then
 - https://delphi.fandom.com/wiki/CompilerVersion_Constant
 - https://gist.github.com/jpluimers/b8c6b3bf29dbbf98a801f01beb8284a5
 - https://gist.github.com/menjaraz/f8b79e3329fed0da1b0d6bcaa54866d7
-
-
