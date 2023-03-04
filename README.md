@@ -9,6 +9,7 @@ https://github.com/ideasawakened/DelphiKB/wiki/Delphi-Master-Release-List
 
 | Product                                      | Conditional VER  | Product Version | Build No. | Package Version | CompilerVersion | Project Version | HKCU/HKLM Registry Path |
 | :------------------------------------------- | :--------------: | :-------------: | :-------------: | :-------------: | :-------------: | :--------------------------------------------- | :--------------------------------------------: |
+| Delphi 11.3 Alexandria / C++Builder 11.3 Alexandria | VER350 | 28 | 28.0.47991.2819 | 280 | 35.0 | 19.5 | \Software\Embarcadero\BDS\22.0 |
 | Delphi 11.2 Alexandria / C++Builder 11.2 Alexandria | VER350 | 28 | 28.0.46141.0937 | 280 | 35.0 | 19.5 | \Software\Embarcadero\BDS\22.0 |
 | C++Builder 11.1.5 Alexandria | VER350 | 28 | 28.0.45591.253 | 280 | 35.0 | 19.4 | \Software\Embarcadero\BDS\22.0 |
 | Delphi 11.1 Alexandria / C++Builder 11.1 Alexandria | VER350 | 28 | 28.0.44500.8973 | 280 | 35.0 | 19.4 | \Software\Embarcadero\BDS\22.0 |
