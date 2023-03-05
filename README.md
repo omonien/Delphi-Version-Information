@@ -7,7 +7,7 @@ If you have corrections, additional information or updates, then feel free to po
 Also have a look at this repo, which has additional information about release dates, patch versions and more:
 https://github.com/ideasawakened/DelphiKB/wiki/Delphi-Master-Release-List
 
-| Product                                      | Main  Version |   | Conditional VER  | Product Version | Build No. | Package Version | CompilerVersion | Project Version | HKCU/HKLM Registry Path |
+| Product                                      | Main  Version | Code Name | Conditional VER  | Product Version | Build No. | Package Version | CompilerVersion | Project Version | HKCU/HKLM Registry Path |
 | :------------------------------------------- | :--------------: | :-------------: | :-------------: | :-------------: | :-------------: | :--------------------------------------------- | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
 | Delphi<br />C++Builder | 11.3 | Alexandria | VER350 | 28 | 28.0.47991.2819 | 280 | 35.0 | 19.5 | \Software\Embarcadero\BDS\22.0 |
 | Delphi<br />C++Builder | 11.2 | Alexandria | VER350 | 28 | 28.0.46141.0937 | 280 | 35.0 | 19.5 | \Software\Embarcadero\BDS\22.0 |
