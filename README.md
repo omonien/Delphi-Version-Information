@@ -9,6 +9,7 @@ https://github.com/ideasawakened/DelphiKB/wiki/Delphi-Master-Release-List
 
 | Product                                      | Main  Version | Code Name | Conditional VER  | Product Version | Build No. | Package Version | CompilerVersion | RTLVersion<br />RTLVersionxxx | Project Version | HKCU/HKLM Registry Path |
 | :------------------------------------------- | :--------------: | :-------------: | :-------------: | :-------------: | :-------------: | :--------------------------------------------- | :--------------------------------------------: | :--------------------------------------------: | ---------------------------------------------- | :--------------------------------------------: |
+| Delphi<br />C++Builder | 12.1 | Athens | VER360 | 29 | 29.0.51961.7529 | 290 | 36.0 | 36.0 | 20.1 | \Software\Embarcadero\BDS\23.0 |
 | Delphi<br />C++Builder | 12.0 | Athens | VER360 | 29 | 29.0.50491.5718 | 290 | 36.0 | 36.0 | 20.1 | \Software\Embarcadero\BDS\23.0 |
 | Delphi<br />C++Builder | 11.3 | Alexandria | VER350 | 28 | 28.0.47991.2819 | 280 | 35.0 | 35.0<br />RTLVersion111<br/> RTLVersion112<br/> RTLVersion113 | 19.5 | \Software\Embarcadero\BDS\22.0 |
 | Delphi<br />C++Builder | 11.2 | Alexandria | VER350 | 28 | 28.0.46141.0937 | 280 | 35.0 | 35.0<br />RTLVersion111<br/> RTLVersion112 | 19.5 | \Software\Embarcadero\BDS\22.0 |
