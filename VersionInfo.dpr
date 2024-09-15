@@ -51,6 +51,12 @@ begin
     LBuildNo := '29.0.51961.7529';
     LProjectVersion := 20.1;
 {$ENDIF}
+{$IF RTLVersion122}
+    LMainVersion := 12.2;
+    LRTLVersionXXX := 'RTLVersion122';
+    LBuildNo := '29.0.53571.9782';
+    LProjectVersion := 20.2;
+{$ENDIF}
 
     // -- D13
     //TBD
