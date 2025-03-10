@@ -1,44 +1,54 @@
-//This tool can be used understand and figure out the various version numbers in Delphi
-//It needs to be adapted for every new Delphi/RAD Studio release.
-//Certain values need to be entered manually (Build No, Code Name, etc) others are determined automatically
+// This tool can be used understand and figure out the various version numbers in Delphi
+// It needs to be adapted for every new Delphi/RAD Studio release.
+// Certain values need to be entered manually (Build No, Code Name, etc) others are determined automatically
 
 program VersionInfo;
 
 {$APPTYPE CONSOLE}
-
 {$R *.res}
 
 uses
   System.SysUtils;
 
 type
-  TExtendedHelper = record helper for Extended
+  TExtendedHelper = record helper for
+    Extended
     function ToVersionString: string;
   end;
 
   { TExtendedHelper }
 function TExtendedHelper.ToVersionString: string;
 begin
-  var LFormatsettings := TFormatSettings.Create('en-us');
+  var
+  LFormatsettings := TFormatSettings.Create('en-us');
   result := FormatFloat('0.0', self, LFormatsettings);
 end;
 
 begin
   try
-    var LMainVersion := 0.0;
-    var LCompilerVersion := CompilerVersion;
-    var LConditionalVersion := 'unknown';
-    var LRTLVersionXXX := 'unknown';
-    var LCodeName := 'unknown';
-    var LBuildNo := 'unknown';
-    var LProjectVersion := 0.0;
-    var LRegPath := '\Software\Embarcadero\BDS\';
+    var
+      LMainVersion: Extended := 0.0;
+    var
+    LCompilerVersion := CompilerVersion;
+    var
+    LConditionalVersion := 'unknown';
+    var
+    LRTLVersionXXX := 'unknown';
+    var
+    LCodeName := 'unknown';
+    var
+    LBuildNo := 'unknown';
+    var
+      LProjectVersion: Extended := 0.0;
+    var
+    LRegPath := '\Software\Embarcadero\BDS\';
 
     // -- D12
 {$IFDEF VER360}
     LConditionalVersion := 'VER360';
     LCodeName := 'Athens';
-    var LInternalVersion := 23.0;
+    var
+      LInternalVersion: Extended := 23.0;
 {$ENDIF}
 {$IF RTLVersion120}
     LMainVersion := 12.0;
@@ -57,14 +67,23 @@ begin
     LBuildNo := '29.0.53571.9782';
     LProjectVersion := 20.2;
 {$ENDIF}
+{$IF RTLVersion123}
+    LMainVersion := 12.3;
+    LRTLVersionXXX := 'RTLVersion123';
+    LBuildNo := '29.0.55362.2017';
+    LProjectVersion := 20.3;
+{$ENDIF}
 
     // -- D13
-    //TBD
-    //--
+    // TBD
+    // --
 
-    var LRTLVersion := RTLVersion;
-    var LProductVersion := LBuildNo.Split(['.'])[0].ToInteger;
-    var LPackageversion := LProductVersion * 10;
+    var
+      LRTLVersion: Extended := RTLVersion;
+    var
+    LProductVersion := LBuildNo.Split(['.'])[0].ToInteger;
+    var
+    LPackageversion := LProductVersion * 10;
 
     Writeln('Main Version: ' + LMainVersion.ToVersionString);
     Writeln('Code Name: ' + LCodeName);
@@ -83,4 +102,5 @@ begin
       Writeln(E.ClassName, ': ', E.Message);
   end;
   Readln;
+
 end.
