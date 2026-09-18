@@ -82,7 +82,12 @@ begin
       LInternalVersion: Extended := 37.0;
 {$ENDIF}
 {$IF RTLVersion=37}
-    {$IF RTLVersion131}
+    {$IF Declared(RTLVersion132)}
+      LMainVersion := 13.2;
+      LRTLVersionXXX := 'RTLVersion132';
+      LBuildNo := '37.0.60952.8797';
+      LProjectVersion := 20.5;
+    {$ELSEIF Declared(RTLVersion131)}
       LMainVersion := 13.1;
       LRTLVersionXXX := 'RTLVersion131';
       LBuildNo := '37.0.59082.6021';
